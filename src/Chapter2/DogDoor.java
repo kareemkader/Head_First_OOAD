@@ -1,7 +1,7 @@
 package Chapter2;
 
 public class DogDoor {
-
+	Sysytem.out.printl("KareemTesting");
 	private boolean open;
 	public DogDoor() {
 		this.open=false;
